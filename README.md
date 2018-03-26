@@ -38,3 +38,5 @@ make
 
 ## Done!
 You're ready to go! Open an app in another terminal.
+
+![Intellij Running](intellij.png)
