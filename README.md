@@ -25,7 +25,7 @@ export DISPLAY=:0
 
 ## Install Dependencies
 ```bash
-sudo apt-get install -y pkg-config git make xwayland libwayland-dev libgbm-dev gcc libx11-xcb-dev libsystemd-dev libxcb-composite0-dev libxkbcommon-dev libxrender-dev libxtst-dev
+sudo apt-get install -y pkg-config git make xwayland libwayland-dev libgbm-dev gcc libx11-xcb-dev libsystemd-dev libxcb-composite0-dev libxkbcommon-dev libxrender-dev libxtst-dev libpixman-1-dev
 ```
 
 ## Get and run Sommelier Service
